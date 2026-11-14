@@ -1,7 +1,7 @@
 # NBE — Nutrition Beyond Earth
 
 Health monitoring for astronauts, built from nutrition outward.
-NASA Space Apps Challenge 2026 · Challenge: *Create Health Monitoring Software for Astronauts on Space Missions* · Team NBE (Windsor, Canada).
+NASA Space Apps Challenge 2026 · Challenge: *Create Health Monitoring Software for Astronauts on Space Missions* · Team NBE.
 
 > DEMO — test build with sample data only. Not a medical device and not an official NASA product.
 > NBE supports, not replaces, the flight surgeon.
