@@ -8,7 +8,7 @@ NASA Space Apps Challenge 2026 · Challenge: *Create Health Monitoring Software 
 
 **Team NBE:** Gabriel Guimarães · Daniel Marcos · Lucas Pires
 
-**Demo video (30 s):** https://youtu.be/rZdrwdBoSe8
+**Demo video (30 s):** (https://youtu.be/nSZbeIifT_A)
 
 ## What it does
 - **Two-minute check-in:** meals from the NASA Artemis II crew menu (nutrients from USDA FoodData Central and TACO), fluids, exercise, sleep, mood, fatigue (Samn-Perelli) and a body check (resting heart rate, symptoms, warning signs).
